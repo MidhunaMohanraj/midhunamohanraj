@@ -2,7 +2,7 @@
 🌟 About Me
 💻 I'm a Master's student in Computer Science at University of California, Irvine.
 🚀 I’m passionate about AI, Machine Learning, and Web Development.
-🎓 I hold a Bachelor's degree in Computer Science with a strong academic background (CGPA: 9.49/10).
+🎓 I hold a Bachelor's degree in Computer Science with a strong academic background (CGPA: 3.98/4.00).
 🌍 I'm currently looking for internship opportunities in Software Engineering or Engineering Program Management for Summer 2025.
 🌱 Currently learning Data Structures & Algorithms (DSA) in Java and exploring Cloud Technologies.
 
