@@ -8,7 +8,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=🤖+AI+%2F+ML+Engineer+%7C+Building+the+future+one+model+at+a+time;📄+Published+Researcher+%7C+IJIRSET+%26+NCAIF'24;☁️+Microsoft+Certified+Azure+Fundamentals+(AZ-900))](https://git.io/typing-svg)
-
+  
 </div>
 
 ---
